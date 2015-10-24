@@ -1,2 +1,4 @@
 # windows_batch
-Useful Windows batch files
+
+Some useful simple windows batch files to be used when processing images
+with ImageMagick
